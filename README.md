@@ -21,10 +21,3 @@ ability to collect a large amount of information. The system
 involves analysis a sequence of road images which represent the
 flow of traffic for the given time period and place.
 
-
-
-
-![Screenshot 1](https://github.com/khopaderahul01/vehicletracking/blob/master/Screenshot%20from%202017-10-27%2015-41-20.png)
-![Screenshot 2](https://github.com/khopaderahul01/vehicletracking/blob/master/Screenshot%20from%202017-10-27%2015-41-33.png)
-![Screenshot 3](https://github.com/khopaderahul01/vehicletracking/blob/master/Screenshot%20from%202017-10-27%2015-41-51.png)
-![Screenshot 4](https://github.com/khopaderahul01/vehicletracking/blob/master/Screenshot%20from%202017-10-27%2015-42-03.png)
