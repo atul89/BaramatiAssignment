@@ -1,5 +1,5 @@
 # vehicletracking
-Vehicle Tracking Full Project Using ASP.net,C#,Javascript etc
+Vehicle Tracking Full Project Using ASP.net,C#,Mvc etc
 
 
 Real Time Vehicle Tracking and Traffic Analysis 
@@ -21,8 +21,7 @@ ability to collect a large amount of information. The system
 involves analysis a sequence of road images which represent the
 flow of traffic for the given time period and place.
 
-//Publication URL
-http://www.eijo.in/journals/article_detail/106
+
 
 
 ![Screenshot 1](https://github.com/khopaderahul01/vehicletracking/blob/master/Screenshot%20from%202017-10-27%2015-41-20.png)
